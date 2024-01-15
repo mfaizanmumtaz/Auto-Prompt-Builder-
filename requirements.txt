@@ -5,3 +5,4 @@ langchain_google_genai==0.0.6
 langchain_openai==0.0.2.post1
 python-dotenv==1.0.0
 streamlit==1.29.0
+qdrant-client
